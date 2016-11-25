@@ -158,4 +158,4 @@
 
 ## Acknowledgement
 
-This webpage was generated from markdown ([src]()) using [markdown-styles](http://mixu.net/markdown-styles/) with slightly modified [mixu-radar](http://mixu.net/markdown-styles/#mixu-radar) theme.
+This webpage was generated from markdown ([src](https://raw.githubusercontent.com/TomaszGolan/ift_webpage/master/src/index.md)) using [markdown-styles](http://mixu.net/markdown-styles/) with slightly modified [mixu-radar](http://mixu.net/markdown-styles/#mixu-radar) theme.
