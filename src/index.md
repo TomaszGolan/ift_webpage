@@ -26,7 +26,7 @@
 
 ## Education
 
-* 2016: PhD at [Institute of Theoretical Physics](http://www.ift.uni.wroc.pl/)
+* 2014: PhD at [Institute of Theoretical Physics](http://www.ift.uni.wroc.pl/)
     * title: *Modeling nuclear effects in NuWro Monte Carlo neutrino event generator*
     * supervisor: prof. Jan Sobczyk
     
