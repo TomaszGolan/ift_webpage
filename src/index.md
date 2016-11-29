@@ -57,8 +57,8 @@
 
 | School | Year | Place | Lecture |
 |:---:|:---:|:---:|:---:|
-| [NuSTEC](http://indico.ipmu.jp/indico/event/71/) | 2015 | Okayama (Japan) | What is inside MC generators. And why it is wrong. |
-| [2014 Neutrino Generator School](http://school.genie-mc.org/) | 2014 | Liverpool (UK) | NuWro intro - How to configure and run basic applications and analyze the outputs |
+| [NuSTEC](http://indico.ipmu.jp/indico/event/71/) | 2015 | Okayama (Japan) | [What is inside MC generators. And why it is wrong.](http://www.ift.uni.wroc.pl/~tgolan/talks/NuSTEC_MC_Generators.pdf) |
+| [2014 Neutrino Generator School](http://school.genie-mc.org/) | 2014 | Liverpool (UK) | [NuWro intro - How to configure and run basic applications and analyze the outputs](http://www.ift.uni.wroc.pl/~tgolan/talks/NuWro_howto.pdf) |
 
 ## Schools (as a student)
 
