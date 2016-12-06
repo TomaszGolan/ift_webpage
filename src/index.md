@@ -72,7 +72,7 @@
 
 1. C.M. Marshall et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Measurement of neutral-current K+ production by neutrinos using MINERvA*, [arXiv:1604.03920 [hep-ex]](https://arxiv.org/abs/1611.02224)
 
-1. L. Aliaga et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Neutrino Flux Predictions for the NuMI Beam*, [arXiv:1607.00704 [hep-ex]](https://arxiv.org/abs/1607.00704)
+1. L. Aliaga et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Neutrino Flux Predictions for the NuMI Beam*, [Phys. Rev. D 94, 092005 (2016)](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.092005)
 
 1. Z. Wang et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *First evidence of coherent K+ meson production in neutrino-nucleus scattering*, [Phys. Rev. Lett. 117, 061802 (2016)](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.061802)
 
