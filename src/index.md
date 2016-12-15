@@ -70,6 +70,8 @@
 
 ## Publications
 
+1. T. Golan, L. Aliaga, and M. Kordosky, *MINERvA’s Flux Prediction*, [JPS Conf. Proc. 12, 010006 (2016)](http://journals.jps.jp/doi/abs/10.7566/JPSCP.12.010006)
+
 1. C.M. Marshall et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Measurement of neutral-current K+ production by neutrinos using MINERvA*, [arXiv:1604.03920 [hep-ex]](https://arxiv.org/abs/1611.02224)
 
 1. L. Aliaga et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Neutrino Flux Predictions for the NuMI Beam*, [Phys. Rev. D 94, 092005 (2016)](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.092005)
