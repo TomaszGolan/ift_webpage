@@ -13,7 +13,12 @@
 
 ## Teaching
 
-* 2016/2017
+* 2016/2017 II
+    * Quantum Physics
+    * Project in a sctipting language
+    * Introduction to programming
+
+* 2016/2017 I
     * Classical Electrodynamics
     * Scripting Languages - Python: [lectures (in polish)](https://github.com/TomaszGolan/js-python)
     * C++ Project: [rules (in polish)](http://tomaszgolan.github.io/reveal_talks/html/projekt_cpp.html)
