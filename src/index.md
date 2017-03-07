@@ -49,6 +49,7 @@
 
 | Conference | Year | Place | Talk |
 |:---:|:---:|:---:|:---:|
+| [NUINT17](https://nuint2017.physics.utoronto.ca/) | 2017 | Toronto (Canada) | *event generators session co-convener* |
 | [NUINT15](http://indico.ipmu.jp/indico/event/46/) | 2015 | Osaka (Japan) | *MINERvA'a Flux Prediction* |
 | [FIFE Workshop](https://indico.fnal.gov/conferenceDisplay.py?confId=9737) | 2015 | Fermilab (USA) | |
 | [NUINT14](http://nuint14.iopconfs.org/home) | 2014 | Surrey (UK) | *NuWro update* |
