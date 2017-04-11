@@ -76,6 +76,12 @@
 
 ## Publications
 
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Search for Lorentz and CPT violation using sidereal time dependence of neutrino flavor transitions over a short baseline*. [arXiv:1703.01361 [hep-ex]](https://arxiv.org/abs/1703.01361)
+
+1. L. Ren et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Measurement of the Antineutrino to Neutrino Charged-Current Interaction Cross Section Ratio in MINERvA*, [arXiv:1701.04857 [hep-ex]](https://arxiv.org/abs/1701.04857)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Combined analysis of neutrino and antineutrino oscillations at T2K*, [Phys. Rev. Lett. 118, 151801 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.151801)
+
 1. T. Golan, L. Aliaga, and M. Kordosky, *MINERvA’s Flux Prediction*, [JPS Conf. Proc. 12, 010006 (2016)](http://journals.jps.jp/doi/abs/10.7566/JPSCP.12.010006)
 
 1. C.M. Marshall et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Measurement of neutral-current K+ production by neutrinos using MINERvA*, [arXiv:1604.03920 [hep-ex]](https://arxiv.org/abs/1611.02224)
