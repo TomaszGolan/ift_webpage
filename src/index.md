@@ -76,6 +76,8 @@
 
 ## Publications
 
+1. G. N. Perdue, T. Golan, A. Himmel, E. Niner, F. Psihas, and A. Radovic, *Deep learning and neutrino physics*, [HSF-CWP-015](http://hepsoftwarefoundation.org/cwp/hsf-cwp-015-CWP_ML_neutrinos.pdf)
+
 1. T. Golan, L. Aliaga, and M. Kordosky, *MINERvA’s Flux Prediction*, [JPS Conf. Proc. 12, 010006 (2016)](http://journals.jps.jp/doi/abs/10.7566/JPSCP.12.010006)
 
 1. C.M. Marshall et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Measurement of neutral-current K+ production by neutrinos using MINERvA*, [arXiv:1604.03920 [hep-ex]](https://arxiv.org/abs/1611.02224)
