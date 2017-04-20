@@ -83,7 +83,6 @@
 1. L. Ren et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Measurement of the Antineutrino to Neutrino Charged-Current Interaction Cross Section Ratio in MINERvA*, [arXiv:1701.04857 [hep-ex]](https://arxiv.org/abs/1701.04857)
 
 1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Combined analysis of neutrino and antineutrino oscillations at T2K*, [Phys. Rev. Lett. 118, 151801 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.151801)
->>>>>>> 8218d7c6860f4387638c42bea6ff02d8b6a7d631
 
 1. T. Golan, L. Aliaga, and M. Kordosky, *MINERvA’s Flux Prediction*, [JPS Conf. Proc. 12, 010006 (2016)](http://journals.jps.jp/doi/abs/10.7566/JPSCP.12.010006)
 
