@@ -15,12 +15,12 @@
 
 * 2016/2017 II
     * Quantum Physics
-    * Project in a sctipting language
+    * Project in a sctipting language (in polish): [introduction](https://docs.google.com/presentation/d/1KKZnqfJPkQMMypEpLsipC9bB81ixGwUzzHlesJr6SAM/edit?usp=sharing), [GitHub tutorial](https://drive.google.com/open?id=1-bJBlKQSdjMCeyVacj9CkifP0CHjwpuYEmmApmk7WPQ), [setuptools tutorial](https://github.com/TomaszGolan/setuptools_helloworld)
     * Introduction to programming
 
 * 2016/2017 I
     * Classical Electrodynamics
-    * Scripting Languages - Python: [lectures (in polish)](https://github.com/TomaszGolan/js-python)
+    * Scripting Languages - Python: [lectures (in polish)](https://tomaszgolan.github.io/js-python/)
     * C++ Project: [rules (in polish)](http://tomaszgolan.github.io/reveal_talks/html/projekt_cpp.html)
 
 ## Employment history
@@ -73,6 +73,14 @@
 | [FNAL Software School](https://indico.fnal.gov/conferenceDisplay.py?confId=8568) | 2014 | Fermilab (USA) |
 | [International Neutrino Summer School](http://dpnc.unige.ch/NeutrinoSummerSchool2011/) | 2011 | Geneva (Switzerland) |
 | [45th Karpacz Winter School in Theoretical Physics](http://wng.ift.uni.wroc.pl/karp45/) | 2009 | Lądek Zdrój (Poland) |
+
+## Selected seminars
+
+1. [NuWro - neutrino MC generator](http://www.ift.uni.wroc.pl/~tgolan/talks/nuwro_hep_uw.pdf), HEP seminar, Univeristy of Warsaw, 28.04.2017
+
+1. [Markdown, Pandoc, and other tools for lazy people](http://tomaszgolan.github.io/reveal_talks/html/markdown_introduction.html), Neutrino Seminar, University of Wroclaw, 10.04.2017
+
+1. [The review of the MINERvA experiment](http://tomaszgolan.github.io/reveal_talks/html/minerva_review.html), Neutrino Seminar, University of Wroclaw, 14.11.2016
 
 ## Publications
 
