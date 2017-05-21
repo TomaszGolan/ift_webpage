@@ -23,6 +23,11 @@
     * Scripting Languages - Python: [lectures (in polish)](https://tomaszgolan.github.io/js-python/)
     * C++ Project: [rules (in polish)](http://tomaszgolan.github.io/reveal_talks/html/projekt_cpp.html)
 
+## Other responsibilities
+
+* since 2017: *Dean's Proxy for Students Safety*
+* since 2016: *The Secretary of Neutrino Seminar*
+
 ## Employment history
 
 * since 2016: *Assistant professor* at [Institute of Theoretical Physics](http://www.ift.uni.wroc.pl/)
