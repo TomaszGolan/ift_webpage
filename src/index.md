@@ -89,17 +89,20 @@
 
 ## Publications
 
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Updated T2K measurements of muon neutrino and antineutrino disappearance using 1.5×1e21 protons on target*, [Phys. Rev. D 96, 011102(R) (2017)](https://doi.org/10.1103/PhysRevD.96.011102)
+
+
 1. G. N. Perdue, T. Golan, A. Himmel, E. Niner, F. Psihas, and A. Radovic, *Deep learning and neutrino physics*, [HSF-CWP-015](http://hepsoftwarefoundation.org/cwp/hsf-cwp-015-CWP_ML_neutrinos.pdf)
 
-1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Search for Lorentz and CPT violation using sidereal time dependence of neutrino flavor transitions over a short baseline*. [arXiv:1703.01361 [hep-ex]](https://arxiv.org/abs/1703.01361)
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Search for Lorentz and CPT violation using sidereal time dependence of neutrino flavor transitions over a short baseline*. [Phys. Rev. D 95, 111101 (2017)](https://doi.org/10.1103/PhysRevD.95.111101)
 
-1. L. Ren et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Measurement of the Antineutrino to Neutrino Charged-Current Interaction Cross Section Ratio in MINERvA*, [arXiv:1701.04857 [hep-ex]](https://arxiv.org/abs/1701.04857)
+1. L. Ren et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Measurement of the Antineutrino to Neutrino Charged-Current Interaction Cross Section Ratio in MINERvA*, [Phys. Rev. D 95, 072009 (2017)](https://doi.org/10.1103/PhysRevD.95.072009)
 
 1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Combined analysis of neutrino and antineutrino oscillations at T2K*, [Phys. Rev. Lett. 118, 151801 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.151801)
 
 1. T. Golan, L. Aliaga, and M. Kordosky, *MINERvA’s Flux Prediction*, [JPS Conf. Proc. 12, 010006 (2016)](http://journals.jps.jp/doi/abs/10.7566/JPSCP.12.010006)
 
-1. C.M. Marshall et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Measurement of neutral-current K+ production by neutrinos using MINERvA*, [arXiv:1604.03920 [hep-ex]](https://arxiv.org/abs/1611.02224)
+1. C.M. Marshall et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Measurement of neutral-current K+ production by neutrinos using MINERvA*, [Phys. Rev. Lett. 119, 011802 (2017)](https://doi.org/10.1103/PhysRevLett.119.011802)
 
 1. L. Aliaga et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Neutrino Flux Predictions for the NuMI Beam*, [Phys. Rev. D 94, 092005 (2016)](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.092005)
 
