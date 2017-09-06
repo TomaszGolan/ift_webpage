@@ -89,8 +89,17 @@
 
 ## Publications
 
-1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Updated T2K measurements of muon neutrino and antineutrino disappearance using 1.5×1e21 protons on target*, [Phys. Rev. D 96, 011102(R) (2017)](https://doi.org/10.1103/PhysRevD.96.011102)
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *First measurement of the numu charged-current cross section without pions in the final state on a water target*, [arXiv:1708.06771](http://arxiv.org/abs/arXiv:1708.06771)
 
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of neutrino and antineutrino oscillations by the T2K experiment including a new additional sample of nue interactions at the far detector*, [arXiv:1707.01048](http://arxiv.org/abs/arXiv:1707.01048)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of numubar and numu charged current inclusive cross sections and their ratio with the T2K off-axis near detector*, [arXiv:1706.04257](http://arxiv.org/abs/arXiv:1706.04257)
+
+1. M. Betancourt et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Direct Measurement of Nuclear Dependence of Charged Current Quasielastic-like Neutrino Interactions using MINERvA*, [Phys. Rev. Lett. 119 no.8, 082001 (2017)](http://dx.doi.org/10.1103/PhysRevLett.119.082001)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of the single pi0 production rate in neutral current neutrino interactions on water*, [arXiv:1704.07467](http://arxiv.org/abs/arXiv:1704.07467)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Updated T2K measurements of muon neutrino and antineutrino disappearance using 1.5×1e21 protons on target*, [Phys. Rev. D 96, 011102(R) (2017)](https://doi.org/10.1103/PhysRevD.96.011102)
 
 1. G. N. Perdue, T. Golan, A. Himmel, E. Niner, F. Psihas, and A. Radovic, *Deep learning and neutrino physics*, [HSF-CWP-015](http://hepsoftwarefoundation.org/cwp/hsf-cwp-015-CWP_ML_neutrinos.pdf)
 
