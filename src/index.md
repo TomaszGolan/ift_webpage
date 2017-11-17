@@ -54,6 +54,7 @@
 
 | Conference | Year | Place | Talk |
 |:---:|:---:|:---:|:---:|
+| [Particle Astrophysics in Poland](http://www.oa.uj.edu.pl/2017czastki/) | 2017 | Kraków | |
 | [NUINT17](https://nuint2017.physics.utoronto.ca/) | 2017 | Toronto (Canada) | *The member of scientific committee* |
 | [NUINT15](http://indico.ipmu.jp/indico/event/46/) | 2015 | Osaka (Japan) | *MINERvA'a Flux Prediction* |
 | [FIFE Workshop](https://indico.fnal.gov/conferenceDisplay.py?confId=9737) | 2015 | Fermilab (USA) | |
@@ -68,7 +69,8 @@
 
 | School | Year | Place | Lecture |
 |:---:|:---:|:---:|:---:|
-| [NuSTEC](http://indico.ipmu.jp/indico/event/71/) | 2015 | Okayama (Japan) | [What is inside MC generators. And why it is wrong.](http://www.ift.uni.wroc.pl/~tgolan/talks/NuSTEC_MC_Generators.pdf) |
+| [NuSTEC 2017](http://nustec.fnal.gov/school2017/) | 2017 | Fermilab (USA) | [How to build MC generator.](http://www.ift.uni.wroc.pl/~tgolan/talks/nustec_mc_01.pdf) <br> [What is inside MC generators. And why it is wrong.](http://www.ift.uni.wroc.pl/~tgolan/talks/nustec_mc_02.pdf) <br> [How to use MC generators.](http://www.ift.uni.wroc.pl/~tgolan/talks/nustec_mc_03.pdf) |
+| [NuSTEC 2015](http://indico.ipmu.jp/indico/event/71/) | 2015 | Okayama (Japan) | [What is inside MC generators. And why it is wrong.](http://www.ift.uni.wroc.pl/~tgolan/talks/NuSTEC_MC_Generators.pdf) |
 | [2014 Neutrino Generator School](http://school.genie-mc.org/) | 2014 | Liverpool (UK) | [NuWro intro - How to configure and run basic applications and analyze the outputs](http://www.ift.uni.wroc.pl/~tgolan/talks/NuWro_howto.pdf) |
 
 ## Schools (as a student)
@@ -93,7 +95,7 @@
 
 1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of neutrino and antineutrino oscillations by the T2K experiment including a new additional sample of nue interactions at the far detector*, [arXiv:1707.01048](http://arxiv.org/abs/arXiv:1707.01048)
 
-1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of numubar and numu charged current inclusive cross sections and their ratio with the T2K off-axis near detector*, [arXiv:1706.04257](http://arxiv.org/abs/arXiv:1706.04257)
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of numubar and numu charged current inclusive cross sections and their ratio with the T2K off-axis near detector*, [Phys. Rev. D 96, 052001 (2017)](https://doi.org/10.1103/PhysRevD.96.052001)
 
 1. M. Betancourt et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Direct Measurement of Nuclear Dependence of Charged Current Quasielastic-like Neutrino Interactions using MINERvA*, [Phys. Rev. Lett. 119 no.8, 082001 (2017)](http://dx.doi.org/10.1103/PhysRevLett.119.082001)
 
