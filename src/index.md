@@ -13,6 +13,10 @@
 
 ## Teaching
 
+* 2017/2018 I
+    * Scripting Languages - Python: [lectures (in polish)](https://github.com/TomaszGolan/js-python)
+    * C++ Project: [rules (in polish)](http://tomaszgolan.github.io/reveal_talks/html/projekt_cpp2017.html)
+
 * 2016/2017 II
     * Quantum Physics
     * Project in a sctipting language (in polish): [introduction](https://docs.google.com/presentation/d/1KKZnqfJPkQMMypEpLsipC9bB81ixGwUzzHlesJr6SAM/edit?usp=sharing), [GitHub tutorial](https://drive.google.com/open?id=1-bJBlKQSdjMCeyVacj9CkifP0CHjwpuYEmmApmk7WPQ), [setuptools tutorial](https://github.com/TomaszGolan/setuptools_helloworld)
@@ -82,6 +86,8 @@
 | [45th Karpacz Winter School in Theoretical Physics](http://wng.ift.uni.wroc.pl/karp45/) | 2009 | Lądek Zdrój (Poland) |
 
 ## Selected seminars
+
+1. [Make your scientific software portable with Singularity containers](http://tomaszgolan.github.io/reveal_talks/html/singularity.html), Neutrino Seminar, University of Wroclaw, 11.12.2017
 
 1. [NuWro - neutrino MC generator](http://www.ift.uni.wroc.pl/~tgolan/talks/nuwro_hep_uw.pdf), HEP seminar, Univeristy of Warsaw, 28.04.2017
 
