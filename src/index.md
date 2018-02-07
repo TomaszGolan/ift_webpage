@@ -58,6 +58,7 @@
 
 | Conference | Year | Place | Talk |
 |:---:|:---:|:---:|:---:|
+| [NuWro Workshop 2017](http://ift.uni.wroc.pl/~nuwro2017/) | 2017 | Wrocław | [Spectral function in NuWro](http://ift.uni.wroc.pl/~nuwro2017/) <br> [The implementation of intranuclear cascade](http://tomaszgolan.github.io/reveal_talks/html/nuwro_cascade.html) |
 | [Particle Astrophysics in Poland](http://www.oa.uj.edu.pl/2017czastki/) | 2017 | Kraków | |
 | [NUINT17](https://nuint2017.physics.utoronto.ca/) | 2017 | Toronto (Canada) | *The member of scientific committee* |
 | [NUINT15](http://indico.ipmu.jp/indico/event/46/) | 2015 | Osaka (Japan) | *MINERvA'a Flux Prediction* |
