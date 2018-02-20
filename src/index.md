@@ -13,16 +13,27 @@
 
 ## Teaching
 
+* 2017/2018 II
+
+    * Project in a sctipting language (in polish): [introduction](http://tomaszgolan.github.io/reveal_talks/html/projekt_python2018.html), [GitHub tutorial](https://drive.google.com/open?id=1-bJBlKQSdjMCeyVacj9CkifP0CHjwpuYEmmApmk7WPQ), [setuptools tutorial](https://github.com/TomaszGolan/setuptools_helloworld)
+    * Programming project (in polish): [introduction](http://tomaszgolan.github.io/reveal_talks/html/projekt2018.html)
+    * C++ programming
+    * Introduction to Machine Learning: [coming soon]
+
+
 * 2017/2018 I
+
     * Scripting Languages - Python: [lectures (in polish)](https://github.com/TomaszGolan/js-python)
     * C++ Project: [rules (in polish)](http://tomaszgolan.github.io/reveal_talks/html/projekt_cpp2017.html)
 
 * 2016/2017 II
+
     * Quantum Physics
     * Project in a sctipting language (in polish): [introduction](https://docs.google.com/presentation/d/1KKZnqfJPkQMMypEpLsipC9bB81ixGwUzzHlesJr6SAM/edit?usp=sharing), [GitHub tutorial](https://drive.google.com/open?id=1-bJBlKQSdjMCeyVacj9CkifP0CHjwpuYEmmApmk7WPQ), [setuptools tutorial](https://github.com/TomaszGolan/setuptools_helloworld)
     * Introduction to programming
 
 * 2016/2017 I
+
     * Classical Electrodynamics
     * Scripting Languages - Python: [lectures (in polish)](https://tomaszgolan.github.io/js-python/)
     * C++ Project: [rules (in polish)](http://tomaszgolan.github.io/reveal_talks/html/projekt_cpp.html)
