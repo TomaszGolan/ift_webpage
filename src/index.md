@@ -109,7 +109,9 @@
 
 ## Publications
 
-1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/),, *Measurement of inclusive double-differential νμ charged-current cross section with improved acceptance in the T2K off-axis near detector*, [arXiv:1801.05148 [hep-ex]](http://arxiv.org/abs/arXiv:1801.05148)
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Characterisation of nuclear effects in muon-neutrino scattering on hydrocarbon with a measurement of final-state kinematics and correlations in charged-current pionless interactions at T2K*, [arXiv:1802.05 [hep-ex]](http://arxiv.org/abs/arXiv:1802.05078)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of inclusive double-differential νμ charged-current cross section with improved acceptance in the T2K off-axis near detector*, [arXiv:1801.05148 [hep-ex]](http://arxiv.org/abs/arXiv:1801.05148)
 
 1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *First measurement of the numu charged-current cross section without pions in the final state on a water target*, [Phys. Rev. D 97 (2018) no.1, 012001](http://dx.doi.org/10.1103/PhysRevD.97.012001)
 
