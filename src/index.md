@@ -18,7 +18,7 @@
     * Project in a sctipting language (in polish): [introduction](http://tomaszgolan.github.io/reveal_talks/html/projekt_python2018.html), [GitHub tutorial](https://drive.google.com/open?id=1-bJBlKQSdjMCeyVacj9CkifP0CHjwpuYEmmApmk7WPQ), [setuptools tutorial](https://github.com/TomaszGolan/setuptools_helloworld)
     * Programming project (in polish): [introduction](http://tomaszgolan.github.io/reveal_talks/html/projekt2018.html)
     * C++ programming
-    * Introduction to Machine Learning: [coming soon]
+    * Introduction to Machine Learning: [lectures notes and jupyter notebooks](https://tomaszgolan.github.io/introduction_to_machine_learning/)
 
 
 * 2017/2018 I
