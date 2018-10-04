@@ -13,6 +13,12 @@
 
 ## Teaching
 
+* 2018/2019 I
+
+    * Scripting Languages - Python: [lectures (in polish)](https://tomaszgolan.github.io/wfia_python/)
+    * C++ Project: [rules (in polish)](http://tomaszgolan.github.io/reveal_talks/html/projekt_cpp2018.html)
+    * Numerical Methods I
+
 * 2017/2018 II
 
     * Project in a sctipting language (in polish): [introduction](http://tomaszgolan.github.io/reveal_talks/html/projekt_python2018.html), [GitHub tutorial](https://drive.google.com/open?id=1-bJBlKQSdjMCeyVacj9CkifP0CHjwpuYEmmApmk7WPQ), [setuptools tutorial](https://github.com/TomaszGolan/setuptools_helloworld)
