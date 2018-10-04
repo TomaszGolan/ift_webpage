@@ -115,9 +115,13 @@
 
 ## Publications
 
-1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Characterisation of nuclear effects in muon-neutrino scattering on hydrocarbon with a measurement of final-state kinematics and correlations in charged-current pionless interactions at T2K*, [arXiv:1802.05 [hep-ex]](http://arxiv.org/abs/arXiv:1802.05078)
+1. G. N. Perdue et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Reducing model bias in a deep learning classifier using domain adversarial neural networks in the MINERvA experiment*, [	arXiv:1808.08332 [physics.data-an]](https://arxiv.org/abs/1808.08332)
 
-1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of inclusive double-differential νμ charged-current cross section with improved acceptance in the T2K off-axis near detector*, [arXiv:1801.05148 [hep-ex]](http://arxiv.org/abs/arXiv:1801.05148)
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Search for CP violation in Neutrino and Antineutrino Oscillations by the T2K experiment with 2.2x10e21 protons on target*, [arXiv:1807.07891 [hep-ex]](http://arxiv.org/abs/arXiv:1807.07891)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Characterisation of nuclear effects in muon-neutrino scattering on hydrocarbon with a measurement of final-state kinematics and correlations in charged-current pionless interactions at T2K*, [Phys. Rev. D 98 (2018) 032003](https://doi.org/10.1103/PhysRevD.98.032003)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of inclusive double-differential νμ charged-current cross section with improved acceptance in the T2K off-axis near detector*, [Phys. Rev. D 98 (2018) 012004](https://doi.org/10.1103/PhysRevD.98.012004)
 
 1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *First measurement of the numu charged-current cross section without pions in the final state on a water target*, [Phys. Rev. D 97 (2018) no.1, 012001](http://dx.doi.org/10.1103/PhysRevD.97.012001)
 
