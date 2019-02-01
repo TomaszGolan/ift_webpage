@@ -47,7 +47,7 @@
 ## Other responsibilities
 
 * since 2017: *Dean's Proxy for Students Safety*
-* since 2016: *The Secretary of Neutrino Seminar*
+* 2016-2018: *The Secretary of Neutrino Seminar*
 
 ## Employment history
 
@@ -67,8 +67,8 @@
 
 ## Experimental physics activities
 
-* since 2014: [MINERvA](http://minerva.fnal.gov/)
-* since 2008: [T2K](http://t2k-experiment.org/)
+* 2014-2018: [MINERvA](http://minerva.fnal.gov/)
+* 2008-2018: [T2K](http://t2k-experiment.org/)
 * 2008-2011: [Icarus](http://icarus.lngs.infn.it/)
 
 ## Conferences
@@ -105,6 +105,8 @@
 
 ## Selected seminars
 
+1. [Machine Learning for MINERvA Physics Reconstruction](http://tomaszgolan.github.io/reveal_talks/html/ml_ift_seminar.html), IFT Seminar, University of Wroclaw, 05.01.2018
+
 1. [Make your scientific software portable with Singularity containers](http://tomaszgolan.github.io/reveal_talks/html/singularity.html), Neutrino Seminar, University of Wroclaw, 11.12.2017
 
 1. [NuWro - neutrino MC generator](http://www.ift.uni.wroc.pl/~tgolan/talks/nuwro_hep_uw.pdf), HEP seminar, Univeristy of Warsaw, 28.04.2017
@@ -115,9 +117,9 @@
 
 ## Publications
 
-1. G. N. Perdue et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Reducing model bias in a deep learning classifier using domain adversarial neural networks in the MINERvA experiment*, [	arXiv:1808.08332 [physics.data-an]](https://arxiv.org/abs/1808.08332)
+1. G. N. Perdue et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Reducing model bias in a deep learning classifier using domain adversarial neural networks in the MINERvA experiment*, [JINST 13 (2018) P11020](https://doi.org/10.1088/1748-0221/13/11/P11020)
 
-1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Search for CP violation in Neutrino and Antineutrino Oscillations by the T2K experiment with 2.2x10e21 protons on target*, [arXiv:1807.07891 [hep-ex]](http://arxiv.org/abs/arXiv:1807.07891)
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Search for CP violation in Neutrino and Antineutrino Oscillations by the T2K experiment with 2.2x10e21 protons on target*, [Phys. Rev. Lett. 121 (2018) 171802](https://doi.org/10.1103/PhysRevLett.121.171802)
 
 1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Characterisation of nuclear effects in muon-neutrino scattering on hydrocarbon with a measurement of final-state kinematics and correlations in charged-current pionless interactions at T2K*, [Phys. Rev. D 98 (2018) 032003](https://doi.org/10.1103/PhysRevD.98.032003)
 
