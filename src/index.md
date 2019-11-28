@@ -46,12 +46,12 @@
 
 ## Other responsibilities
 
-* since 2017: *Dean's Proxy for Students Safety*
+* 2017-2019: *Dean's Proxy for Students Safety*
 * 2016-2018: *The Secretary of Neutrino Seminar*
 
 ## Employment history
 
-* since 2016: *Assistant professor* at [Institute of Theoretical Physics](http://www.ift.uni.wroc.pl/)
+* 2016-2019: *Assistant professor* at [Institute of Theoretical Physics](http://www.ift.uni.wroc.pl/)
 * 2014-2016: *Postdoctoral Associate* at [University of Rochester](http://www.pas.rochester.edu/)
 * 2014-2016: *Postdoctoral Associate* at [Fermilab](http://www.fnal.gov/)
 
@@ -116,6 +116,26 @@
 1. [The review of the MINERvA experiment](http://tomaszgolan.github.io/reveal_talks/html/minerva_review.html), Neutrino Seminar, University of Wroclaw, 14.11.2016
 
 ## Publications
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Search for Electron Antineutrino Appearance in a Long-baseline Muon Antineutrino Beam*, [arXiv:1911.07283 [hep-ex]](http://arxiv.org/abs/arXiv:1911.07283)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of neutrino and antineutrino neutral-current quasielastic-like interactions on oxygen by detecting nuclear de-excitation gamma-rays*, [arXiv:1910.09439 [hep-ex]](http://arxiv.org/abs/arXiv:1910.09439)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Constraint on the Matter-Antimatter Symmetry-Violating Phase in Neutrino Oscillations*, [arXiv:1910.03887 [hep-ex]](http://arxiv.org/abs/arXiv:1910.03887)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of the muon neutrino charged-current single pi+ production on hydrocarbon using the T2K off-axis near detector ND280*, [arXiv:1909.03936 [hep-ex]](http://arxiv.org/abs/arXiv:1909.03936)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *First Measurement of the Charged Current anti numu Double Differential Cross Section on a Water Target without Pions in the final state*, [arXiv:1908.10249 [hep-ex]](http://arxiv.org/abs/arXiv:1908.10249)
+
+1. E. Valencia et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Constraint of the MINERvA medium energy neutrino flux using neutrino-electron elastic scattering*, [Phys.Rev. D100 (2019) no.9, 092001](https://doi.org/10.1103/PhysRevD.100.092001)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Measurement of the numu charged-current cross sections on water, hydrocarbon, iron, and their ratios with the T2K on-axis detectors*, [PTEP 2019 093C02](https://doi.org/10.1093/ptep/ptz070)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Search for heavy neutrinos with the T2K near detector ND280*, [Phys.Rev. D100 (2019) no.5, 052006](https://doi.org/10.1103/PhysRevD.100.052006)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Search for light sterile neutrinos with the T2K far detector Super-Kamiokande at a baseline of 295 km*, [Phys.Rev. D99 (2019) no.7, 071103](https://doi.org/10.1103/PhysRevD.99.071103)
+
+1. K. Abe et al. [T2K Collaboration](http://t2k-experiment.org/), *Search for neutral-current induced single photon production at the ND280 near detector in T2K*, [J.Phys. G46 (2019) no.8, 08LT01](https://doi.org/10.1088/1361-6471/ab227d)
 
 1. G. N. Perdue et al. [MINERvA Collaboration](http://minerva.fnal.gov/), *Reducing model bias in a deep learning classifier using domain adversarial neural networks in the MINERvA experiment*, [JINST 13 (2018) P11020](https://doi.org/10.1088/1748-0221/13/11/P11020)
 
